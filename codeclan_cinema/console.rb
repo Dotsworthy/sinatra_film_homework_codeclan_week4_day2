@@ -41,5 +41,3 @@ ticket3.save()
 
 binding.pry()
 nil
-
-# I can't delete the customer or film without manually deleting the ticket first. Should ON DELETE CASCADE be dealing with this?
