@@ -4,4 +4,4 @@ brief:
 
 Add a controller and views to render a list of all the films in an unordered list.
 
-Full brief featured in github.
+Full brief featured above.
